@@ -1,0 +1,11 @@
+Age,MonthlyIncome,PlanType,UsageScore,Purchase
+25,30000,Basic,70,No
+32,45000,Premium,50,Yes
+40,55000,Standard,90,Yes
+22,25000,Basic,30,No
+35,48000,Premium,75,Yes
+45,60000,Standard,65,Yes
+28,35000,Basic,35,No
+50,70000,Premium,85,Yes
+30,40000,Standard,45,Yes
+42,52000,Basic,60,No
